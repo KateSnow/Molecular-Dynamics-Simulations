@@ -1,4 +1,4 @@
-// Molec Dyn SPin.cpp : Defines the entry point for the console application.
+// Molec Dyn Spin.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
